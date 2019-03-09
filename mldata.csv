@@ -1,0 +1,433 @@
+Product,Location,Customer,Date,Sales
+prod1,United Kingdom,GRAND CORPORATION,2015/01,267.05
+prod1,United Kingdom,GRAND CORPORATION,2015/02,266.2833333
+prod1,United Kingdom,GRAND CORPORATION,2015/03,297.75
+prod1,United Kingdom,GRAND CORPORATION,2015/04,339.7666667
+prod1,United Kingdom,GRAND CORPORATION,2015/05,405.4333333
+prod1,United Kingdom,GRAND CORPORATION,2015/06,388.25
+prod1,United Kingdom,GRAND CORPORATION,2015/07,354.9833333
+prod1,United Kingdom,GRAND CORPORATION,2015/08,342.65
+prod1,United Kingdom,GRAND CORPORATION,2015/09,360.1833333
+prod1,United Kingdom,GRAND CORPORATION,2015/10,387.0833333
+prod1,United Kingdom,GRAND CORPORATION,2015/11,436.7666667
+prod1,United Kingdom,GRAND CORPORATION,2015/12,496.7333333
+prod1,United Kingdom,GRAND CORPORATION,2016/01,525.3
+prod1,United Kingdom,GRAND CORPORATION,2016/02,502.3833333
+prod1,United Kingdom,GRAND CORPORATION,2016/03,497.65
+prod1,United Kingdom,GRAND CORPORATION,2016/04,500.3333333
+prod1,United Kingdom,GRAND CORPORATION,2016/05,482.6
+prod1,United Kingdom,GRAND CORPORATION,2016/06,502.3
+prod1,United Kingdom,GRAND CORPORATION,2016/07,546.1333333
+prod1,United Kingdom,GRAND CORPORATION,2016/08,554.1166667
+prod1,United Kingdom,GRAND CORPORATION,2016/09,465.0666667
+prod1,United Kingdom,GRAND CORPORATION,2016/10,352.9833333
+prod1,United Kingdom,GRAND CORPORATION,2016/11,322.6
+prod1,United Kingdom,GRAND CORPORATION,2016/12,275.0666667
+prod1,United Kingdom,GRAND CORPORATION,2017/01,267.0833333
+prod1,United Kingdom,GRAND CORPORATION,2017/02,251.1166667
+prod1,United Kingdom,GRAND CORPORATION,2017/03,283.6833333
+prod1,United Kingdom,GRAND CORPORATION,2017/04,340.2666667
+prod1,United Kingdom,GRAND CORPORATION,2017/05,417.1166667
+prod1,United Kingdom,GRAND CORPORATION,2017/06,393.4333333
+prod1,United Kingdom,GRAND CORPORATION,2017/07,364.0833333
+prod1,United Kingdom,GRAND CORPORATION,2017/08,341.5833333
+prod1,United Kingdom,GRAND CORPORATION,2017/09,340.8
+prod1,United Kingdom,GRAND CORPORATION,2017/10,386.1333333
+prod1,United Kingdom,GRAND CORPORATION,2017/11,435.1333333
+prod1,United Kingdom,GRAND CORPORATION,2017/12,481.0833333
+prod1,United Kingdom,Alpha LLC,2015/01,496.5666667
+prod1,United Kingdom,Alpha LLC,2015/02,497.1666667
+prod1,United Kingdom,Alpha LLC,2015/03,493.4666667
+prod1,United Kingdom,Alpha LLC,2015/04,496.0333333
+prod1,United Kingdom,Alpha LLC,2015/05,499.4333333
+prod1,United Kingdom,Alpha LLC,2015/06,501.9
+prod1,United Kingdom,Alpha LLC,2015/07,498.1333333
+prod1,United Kingdom,Alpha LLC,2015/08,501.7333333
+prod1,United Kingdom,Alpha LLC,2015/09,430.4333333
+prod1,United Kingdom,Alpha LLC,2015/10,346.05
+prod1,United Kingdom,Alpha LLC,2015/11,307.25
+prod1,United Kingdom,Alpha LLC,2015/12,275.8833333
+prod1,United Kingdom,Alpha LLC,2016/01,254.3833333
+prod1,United Kingdom,Alpha LLC,2016/02,250.4333333
+prod1,United Kingdom,Alpha LLC,2016/03,275.4666667
+prod1,United Kingdom,Alpha LLC,2016/04,295.9833333
+prod1,United Kingdom,Alpha LLC,2016/05,394.7666667
+prod1,United Kingdom,Alpha LLC,2016/06,383.9666667
+prod1,United Kingdom,Alpha LLC,2016/07,369.8
+prod1,United Kingdom,Alpha LLC,2016/08,329.5333333
+prod1,United Kingdom,Alpha LLC,2016/09,347.2833333
+prod1,United Kingdom,Alpha LLC,2016/10,362.2166667
+prod1,United Kingdom,Alpha LLC,2016/11,422.1333333
+prod1,United Kingdom,Alpha LLC,2016/12,468.1166667
+prod1,United Kingdom,Alpha LLC,2017/01,508.2333333
+prod1,United Kingdom,Alpha LLC,2017/02,487.5833333
+prod1,United Kingdom,Alpha LLC,2017/03,493.4
+prod1,United Kingdom,Alpha LLC,2017/04,492.45
+prod1,United Kingdom,Alpha LLC,2017/05,485.8333333
+prod1,United Kingdom,Alpha LLC,2017/06,497.6166667
+prod1,United Kingdom,Alpha LLC,2017/07,532.4166667
+prod1,United Kingdom,Alpha LLC,2017/08,536.95
+prod1,United Kingdom,Alpha LLC,2017/09,451.7333333
+prod1,United Kingdom,Alpha LLC,2017/10,376.4833333
+prod1,United Kingdom,Alpha LLC,2017/11,334
+prod1,United Kingdom,Alpha LLC,2017/12,292.05
+prod1,Germany,Riverson Ltd,2015/01,292.7833333
+prod1,Germany,Riverson Ltd,2015/02,296.15
+prod1,Germany,Riverson Ltd,2015/03,307.8333333
+prod1,Germany,Riverson Ltd,2015/04,348.2166667
+prod1,Germany,Riverson Ltd,2015/05,386.4666667
+prod1,Germany,Riverson Ltd,2015/06,429.8333333
+prod1,Germany,Riverson Ltd,2015/07,471.2833333
+prod1,Germany,Riverson Ltd,2015/08,481.4666667
+prod1,Germany,Riverson Ltd,2015/09,477.5
+prod1,Germany,Riverson Ltd,2015/10,443.9666667
+prod1,Germany,Riverson Ltd,2015/11,437.4666667
+prod1,Germany,Riverson Ltd,2015/12,474.9333333
+prod1,Germany,Riverson Ltd,2016/01,524.5833333
+prod1,Germany,Riverson Ltd,2016/02,508.3333333
+prod1,Germany,Riverson Ltd,2016/03,512.45
+prod1,Germany,Riverson Ltd,2016/04,503.9833333
+prod1,Germany,Riverson Ltd,2016/05,502.15
+prod1,Germany,Riverson Ltd,2016/06,491.45
+prod1,Germany,Riverson Ltd,2016/07,508.4166667
+prod1,Germany,Riverson Ltd,2016/08,489.5833333
+prod1,Germany,Riverson Ltd,2016/09,417.4833333
+prod1,Germany,Riverson Ltd,2016/10,393.0833333
+prod1,Germany,Riverson Ltd,2016/11,322.3333333
+prod1,Germany,Riverson Ltd,2016/12,312.0333333
+prod1,Germany,Riverson Ltd,2017/01,296.8666667
+prod1,Germany,Riverson Ltd,2017/02,297.8166667
+prod1,Germany,Riverson Ltd,2017/03,301.9166667
+prod1,Germany,Riverson Ltd,2017/04,327.6333333
+prod1,Germany,Riverson Ltd,2017/05,375.2333333
+prod1,Germany,Riverson Ltd,2017/06,431.5666667
+prod1,Germany,Riverson Ltd,2017/07,471.35
+prod1,Germany,Riverson Ltd,2017/08,508.5333333
+prod1,Germany,Riverson Ltd,2017/09,508.6
+prod1,Germany,Riverson Ltd,2017/10,470.5666667
+prod1,Germany,Riverson Ltd,2017/11,491.8333333
+prod1,Germany,Riverson Ltd,2017/12,537.0333333
+prod1,France,OMEGA LIMITED,2015/01,554.45
+prod1,France,OMEGA LIMITED,2015/02,555.9333333
+prod1,France,OMEGA LIMITED,2015/03,543.8
+prod1,France,OMEGA LIMITED,2015/04,524.35
+prod1,France,OMEGA LIMITED,2015/05,530.1833333
+prod1,France,OMEGA LIMITED,2015/06,533.4
+prod1,France,OMEGA LIMITED,2015/07,561.15
+prod1,France,OMEGA LIMITED,2015/08,566.3333333
+prod1,France,OMEGA LIMITED,2015/09,475.7
+prod1,France,OMEGA LIMITED,2015/10,376.5166667
+prod1,France,OMEGA LIMITED,2015/11,324.4833333
+prod1,France,OMEGA LIMITED,2015/12,272.25
+prod1,France,OMEGA LIMITED,2016/01,265.0333333
+prod1,France,OMEGA LIMITED,2016/02,261.1666667
+prod1,France,OMEGA LIMITED,2016/03,293.4833333
+prod1,France,OMEGA LIMITED,2016/04,332.6333333
+prod1,France,OMEGA LIMITED,2016/05,412.6
+prod1,France,OMEGA LIMITED,2016/06,371.0833333
+prod1,France,OMEGA LIMITED,2016/07,331.4666667
+prod1,France,OMEGA LIMITED,2016/08,325.5166667
+prod1,France,OMEGA LIMITED,2016/09,325.5166667
+prod1,France,OMEGA LIMITED,2016/10,341.8833333
+prod1,France,OMEGA LIMITED,2016/11,399.7666667
+prod1,France,OMEGA LIMITED,2016/12,452.5166667
+prod1,France,OMEGA LIMITED,2017/01,467.0666667
+prod1,France,OMEGA LIMITED,2017/02,472.4333333
+prod1,France,OMEGA LIMITED,2017/03,474.0666667
+prod1,France,OMEGA LIMITED,2017/04,484.5333333
+prod1,France,OMEGA LIMITED,2017/05,484.45
+prod1,France,OMEGA LIMITED,2017/06,501.3666667
+prod1,France,OMEGA LIMITED,2017/07,538.4
+prod1,France,OMEGA LIMITED,2017/08,511.3833333
+prod1,France,OMEGA LIMITED,2017/09,449.0666667
+prod1,France,OMEGA LIMITED,2017/10,356.8833333
+prod1,France,OMEGA LIMITED,2017/11,316.8166667
+prod1,France,OMEGA LIMITED,2017/12,265.05
+prod2,United Kingdom,GRAND CORPORATION,2015/01,319.32
+prod2,United Kingdom,GRAND CORPORATION,2015/02,320.36
+prod2,United Kingdom,GRAND CORPORATION,2015/03,320.82
+prod2,United Kingdom,GRAND CORPORATION,2015/04,322.06
+prod2,United Kingdom,GRAND CORPORATION,2015/05,322.17
+prod2,United Kingdom,GRAND CORPORATION,2015/06,321.95
+prod2,United Kingdom,GRAND CORPORATION,2015/07,321.2
+prod2,United Kingdom,GRAND CORPORATION,2015/08,318.81
+prod2,United Kingdom,GRAND CORPORATION,2015/09,317.82
+prod2,United Kingdom,GRAND CORPORATION,2015/10,317.37
+prod2,United Kingdom,GRAND CORPORATION,2015/11,318.93
+prod2,United Kingdom,GRAND CORPORATION,2015/12,319.09
+prod2,United Kingdom,GRAND CORPORATION,2016/01,319.94
+prod2,United Kingdom,GRAND CORPORATION,2016/02,320.98
+prod2,United Kingdom,GRAND CORPORATION,2016/03,321.81
+prod2,United Kingdom,GRAND CORPORATION,2016/04,323.03
+prod2,United Kingdom,GRAND CORPORATION,2016/05,323.36
+prod2,United Kingdom,GRAND CORPORATION,2016/06,323.11
+prod2,United Kingdom,GRAND CORPORATION,2016/07,321.65
+prod2,United Kingdom,GRAND CORPORATION,2016/08,319.64
+prod2,United Kingdom,GRAND CORPORATION,2016/09,317.86
+prod2,United Kingdom,GRAND CORPORATION,2016/10,317.25
+prod2,United Kingdom,GRAND CORPORATION,2016/11,319.06
+prod2,United Kingdom,GRAND CORPORATION,2016/12,320.26
+prod2,United Kingdom,GRAND CORPORATION,2017/01,321.65
+prod2,United Kingdom,GRAND CORPORATION,2017/02,321.81
+prod2,United Kingdom,GRAND CORPORATION,2017/03,322.36
+prod2,United Kingdom,GRAND CORPORATION,2017/04,323.67
+prod2,United Kingdom,GRAND CORPORATION,2017/05,324.17
+prod2,United Kingdom,GRAND CORPORATION,2017/06,323.39
+prod2,United Kingdom,GRAND CORPORATION,2017/07,321.93
+prod2,United Kingdom,GRAND CORPORATION,2017/08,320.29
+prod2,United Kingdom,GRAND CORPORATION,2017/09,318.58
+prod2,United Kingdom,GRAND CORPORATION,2017/10,318.6
+prod2,United Kingdom,GRAND CORPORATION,2017/11,319.98
+prod2,United Kingdom,GRAND CORPORATION,2017/12,321.25
+prod2,United Kingdom,Alpha LLC,2015/01,321.88
+prod2,United Kingdom,Alpha LLC,2015/02,322.47
+prod2,United Kingdom,Alpha LLC,2015/03,323.17
+prod2,United Kingdom,Alpha LLC,2015/04,324.23
+prod2,United Kingdom,Alpha LLC,2015/05,324.88
+prod2,United Kingdom,Alpha LLC,2015/06,324.75
+prod2,United Kingdom,Alpha LLC,2015/07,323.47
+prod2,United Kingdom,Alpha LLC,2015/08,321.34
+prod2,United Kingdom,Alpha LLC,2015/09,319.56
+prod2,United Kingdom,Alpha LLC,2015/10,319.45
+prod2,United Kingdom,Alpha LLC,2015/11,320.45
+prod2,United Kingdom,Alpha LLC,2015/12,321.92
+prod2,United Kingdom,Alpha LLC,2016/01,323.4
+prod2,United Kingdom,Alpha LLC,2016/02,324.21
+prod2,United Kingdom,Alpha LLC,2016/03,325.33
+prod2,United Kingdom,Alpha LLC,2016/04,326.31
+prod2,United Kingdom,Alpha LLC,2016/05,327.01
+prod2,United Kingdom,Alpha LLC,2016/06,326.24
+prod2,United Kingdom,Alpha LLC,2016/07,325.37
+prod2,United Kingdom,Alpha LLC,2016/08,323.12
+prod2,United Kingdom,Alpha LLC,2016/09,321.85
+prod2,United Kingdom,Alpha LLC,2016/10,321.31
+prod2,United Kingdom,Alpha LLC,2016/11,322.31
+prod2,United Kingdom,Alpha LLC,2016/12,323.72
+prod2,United Kingdom,Alpha LLC,2017/01,324.6
+prod2,United Kingdom,Alpha LLC,2017/02,325.57
+prod2,United Kingdom,Alpha LLC,2017/03,326.55
+prod2,United Kingdom,Alpha LLC,2017/04,327.8
+prod2,United Kingdom,Alpha LLC,2017/05,327.8
+prod2,United Kingdom,Alpha LLC,2017/06,327.54
+prod2,United Kingdom,Alpha LLC,2017/07,326.28
+prod2,United Kingdom,Alpha LLC,2017/08,324.63
+prod2,United Kingdom,Alpha LLC,2017/09,323.12
+prod2,United Kingdom,Alpha LLC,2017/10,323.11
+prod2,United Kingdom,Alpha LLC,2017/11,323.99
+prod2,United Kingdom,Alpha LLC,2017/12,325.09
+prod2,Germany,Delta Corp.,2015/01,326.61
+prod2,Germany,Delta Corp.,2015/02,327.16
+prod2,Germany,Delta Corp.,2015/03,327.92
+prod2,Germany,Delta Corp.,2015/04,329.14
+prod2,Germany,Delta Corp.,2015/05,328.8
+prod2,Germany,Delta Corp.,2015/06,327.52
+prod2,Germany,Delta Corp.,2015/07,325.62
+prod2,Germany,Delta Corp.,2015/08,323.61
+prod2,Germany,Delta Corp.,2015/09,323.8
+prod2,Germany,Delta Corp.,2015/10,325.1
+prod2,Germany,Delta Corp.,2015/11,326.25
+prod2,Germany,Delta Corp.,2015/12,326.93
+prod2,Germany,Delta Corp.,2016/01,327.83
+prod2,Germany,Delta Corp.,2016/02,327.95
+prod2,Germany,Delta Corp.,2016/03,329.91
+prod2,Germany,Delta Corp.,2016/04,330.22
+prod2,Germany,Delta Corp.,2016/05,329.25
+prod2,Germany,Delta Corp.,2016/06,328.11
+prod2,Germany,Delta Corp.,2016/07,326.39
+prod2,Germany,Delta Corp.,2016/08,324.97
+prod2,Germany,Delta Corp.,2016/09,325.32
+prod2,Germany,Delta Corp.,2016/10,326.54
+prod2,Germany,Delta Corp.,2016/11,327.71
+prod2,Germany,Delta Corp.,2016/12,328.73
+prod2,Germany,Delta Corp.,2017/01,329.69
+prod2,Germany,Delta Corp.,2017/02,330.47
+prod2,Germany,Delta Corp.,2017/03,331.69
+prod2,Germany,Delta Corp.,2017/04,332.65
+prod2,Germany,Delta Corp.,2017/05,332.24
+prod2,Germany,Delta Corp.,2017/06,331.03
+prod2,Germany,Delta Corp.,2017/07,329.36
+prod2,Germany,Delta Corp.,2017/08,327.6
+prod2,Germany,Delta Corp.,2017/09,327.29
+prod2,Germany,Delta Corp.,2017/10,328.28
+prod2,Germany,Delta Corp.,2017/11,328.79
+prod2,Germany,Delta Corp.,2017/12,329.45
+prod2,Germany,ATLAS LLC,2015/01,331.63
+prod2,Germany,ATLAS LLC,2015/02,332.85
+prod2,Germany,ATLAS LLC,2015/03,333.28
+prod2,Germany,ATLAS LLC,2015/04,332.47
+prod2,Germany,ATLAS LLC,2015/05,331.34
+prod2,Germany,ATLAS LLC,2015/06,329.53
+prod2,Germany,ATLAS LLC,2015/07,327.57
+prod2,Germany,ATLAS LLC,2015/08,327.57
+prod2,Germany,ATLAS LLC,2015/09,328.53
+prod2,Germany,ATLAS LLC,2015/10,329.69
+prod2,Germany,ATLAS LLC,2015/11,330.45
+prod2,Germany,ATLAS LLC,2015/12,330.97
+prod2,Germany,ATLAS LLC,2016/01,331.64
+prod2,Germany,ATLAS LLC,2016/02,332.87
+prod2,Germany,ATLAS LLC,2016/03,333.61
+prod2,Germany,ATLAS LLC,2016/04,333.55
+prod2,Germany,ATLAS LLC,2016/05,331.9
+prod2,Germany,ATLAS LLC,2016/06,330.05
+prod2,Germany,ATLAS LLC,2016/07,328.58
+prod2,Germany,ATLAS LLC,2016/08,328.31
+prod2,Germany,ATLAS LLC,2016/09,329.41
+prod2,Germany,ATLAS LLC,2016/10,330.63
+prod2,Germany,ATLAS LLC,2016/11,331.63
+prod2,Germany,ATLAS LLC,2016/12,332.46
+prod2,Germany,ATLAS LLC,2017/01,333.36
+prod2,Germany,ATLAS LLC,2017/02,334.45
+prod2,Germany,ATLAS LLC,2017/03,334.82
+prod2,Germany,ATLAS LLC,2017/04,334.32
+prod2,Germany,ATLAS LLC,2017/05,333.05
+prod2,Germany,ATLAS LLC,2017/06,330.87
+prod2,Germany,ATLAS LLC,2017/07,329.24
+prod2,Germany,ATLAS LLC,2017/08,328.87
+prod2,Germany,ATLAS LLC,2017/09,330.18
+prod2,Germany,ATLAS LLC,2017/10,331.5
+prod2,Germany,ATLAS LLC,2017/11,332.81
+prod2,Germany,ATLAS LLC,2017/12,333.23
+prod3,United Kingdom,Alpha LLC,2015/01,112
+prod3,United Kingdom,Alpha LLC,2015/02,118
+prod3,United Kingdom,Alpha LLC,2015/03,132
+prod3,United Kingdom,Alpha LLC,2015/04,129
+prod3,United Kingdom,Alpha LLC,2015/05,121
+prod3,United Kingdom,Alpha LLC,2015/06,135
+prod3,United Kingdom,Alpha LLC,2015/07,148
+prod3,United Kingdom,Alpha LLC,2015/08,148
+prod3,United Kingdom,Alpha LLC,2015/09,136
+prod3,United Kingdom,Alpha LLC,2015/10,119
+prod3,United Kingdom,Alpha LLC,2015/11,104
+prod3,United Kingdom,Alpha LLC,2015/12,118
+prod3,United Kingdom,Alpha LLC,2016/01,115
+prod3,United Kingdom,Alpha LLC,2016/02,126
+prod3,United Kingdom,Alpha LLC,2016/03,141
+prod3,United Kingdom,Alpha LLC,2016/04,135
+prod3,United Kingdom,Alpha LLC,2016/05,125
+prod3,United Kingdom,Alpha LLC,2016/06,149
+prod3,United Kingdom,Alpha LLC,2016/07,170
+prod3,United Kingdom,Alpha LLC,2016/08,170
+prod3,United Kingdom,Alpha LLC,2016/09,158
+prod3,United Kingdom,Alpha LLC,2016/10,133
+prod3,United Kingdom,Alpha LLC,2016/11,114
+prod3,United Kingdom,Alpha LLC,2016/12,140
+prod3,United Kingdom,Alpha LLC,2017/01,145
+prod3,United Kingdom,Alpha LLC,2017/02,150
+prod3,United Kingdom,Alpha LLC,2017/03,178
+prod3,United Kingdom,Alpha LLC,2017/04,163
+prod3,United Kingdom,Alpha LLC,2017/05,172
+prod3,United Kingdom,Alpha LLC,2017/06,178
+prod3,United Kingdom,Alpha LLC,2017/07,199
+prod3,United Kingdom,Alpha LLC,2017/08,199
+prod3,United Kingdom,Alpha LLC,2017/09,184
+prod3,United Kingdom,Alpha LLC,2017/10,162
+prod3,United Kingdom,Alpha LLC,2017/11,146
+prod3,United Kingdom,Alpha LLC,2017/12,166
+prod3,United Kingdom,Riverson Ltd,2015/01,171
+prod3,United Kingdom,Riverson Ltd,2015/02,180
+prod3,United Kingdom,Riverson Ltd,2015/03,193
+prod3,United Kingdom,Riverson Ltd,2015/04,181
+prod3,United Kingdom,Riverson Ltd,2015/05,183
+prod3,United Kingdom,Riverson Ltd,2015/06,218
+prod3,United Kingdom,Riverson Ltd,2015/07,230
+prod3,United Kingdom,Riverson Ltd,2015/08,242
+prod3,United Kingdom,Riverson Ltd,2015/09,209
+prod3,United Kingdom,Riverson Ltd,2015/10,191
+prod3,United Kingdom,Riverson Ltd,2015/11,172
+prod3,United Kingdom,Riverson Ltd,2015/12,194
+prod3,United Kingdom,Riverson Ltd,2016/01,196
+prod3,United Kingdom,Riverson Ltd,2016/02,196
+prod3,United Kingdom,Riverson Ltd,2016/03,236
+prod3,United Kingdom,Riverson Ltd,2016/04,235
+prod3,United Kingdom,Riverson Ltd,2016/05,229
+prod3,United Kingdom,Riverson Ltd,2016/06,243
+prod3,United Kingdom,Riverson Ltd,2016/07,264
+prod3,United Kingdom,Riverson Ltd,2016/08,272
+prod3,United Kingdom,Riverson Ltd,2016/09,237
+prod3,United Kingdom,Riverson Ltd,2016/10,211
+prod3,United Kingdom,Riverson Ltd,2016/11,180
+prod3,United Kingdom,Riverson Ltd,2016/12,201
+prod3,United Kingdom,Riverson Ltd,2017/01,204
+prod3,United Kingdom,Riverson Ltd,2017/02,188
+prod3,United Kingdom,Riverson Ltd,2017/03,235
+prod3,United Kingdom,Riverson Ltd,2017/04,227
+prod3,United Kingdom,Riverson Ltd,2017/05,234
+prod3,United Kingdom,Riverson Ltd,2017/06,264
+prod3,United Kingdom,Riverson Ltd,2017/07,302
+prod3,United Kingdom,Riverson Ltd,2017/08,293
+prod3,United Kingdom,Riverson Ltd,2017/09,259
+prod3,United Kingdom,Riverson Ltd,2017/10,229
+prod3,United Kingdom,Riverson Ltd,2017/11,203
+prod3,United Kingdom,Riverson Ltd,2017/12,229
+prod3,Germany,GRAND CORPORATION,2015/01,233
+prod3,Germany,GRAND CORPORATION,2015/02,267
+prod3,Germany,GRAND CORPORATION,2015/03,269
+prod3,Germany,GRAND CORPORATION,2015/04,270
+prod3,Germany,GRAND CORPORATION,2015/05,315
+prod3,Germany,GRAND CORPORATION,2015/06,364
+prod3,Germany,GRAND CORPORATION,2015/07,347
+prod3,Germany,GRAND CORPORATION,2015/08,312
+prod3,Germany,GRAND CORPORATION,2015/09,274
+prod3,Germany,GRAND CORPORATION,2015/10,237
+prod3,Germany,GRAND CORPORATION,2015/11,278
+prod3,Germany,GRAND CORPORATION,2015/12,284
+prod3,Germany,GRAND CORPORATION,2016/01,277
+prod3,Germany,GRAND CORPORATION,2016/02,317
+prod3,Germany,GRAND CORPORATION,2016/03,313
+prod3,Germany,GRAND CORPORATION,2016/04,318
+prod3,Germany,GRAND CORPORATION,2016/05,374
+prod3,Germany,GRAND CORPORATION,2016/06,413
+prod3,Germany,GRAND CORPORATION,2016/07,405
+prod3,Germany,GRAND CORPORATION,2016/08,355
+prod3,Germany,GRAND CORPORATION,2016/09,306
+prod3,Germany,GRAND CORPORATION,2016/10,271
+prod3,Germany,GRAND CORPORATION,2016/11,306
+prod3,Germany,GRAND CORPORATION,2016/12,315
+prod3,Germany,GRAND CORPORATION,2017/01,301
+prod3,Germany,GRAND CORPORATION,2017/02,356
+prod3,Germany,GRAND CORPORATION,2017/03,348
+prod3,Germany,GRAND CORPORATION,2017/04,355
+prod3,Germany,GRAND CORPORATION,2017/05,422
+prod3,Germany,GRAND CORPORATION,2017/06,465
+prod3,Germany,GRAND CORPORATION,2017/07,467
+prod3,Germany,GRAND CORPORATION,2017/08,404
+prod3,Germany,GRAND CORPORATION,2017/09,347
+prod3,Germany,GRAND CORPORATION,2017/10,305
+prod3,Germany,GRAND CORPORATION,2017/11,336
+prod3,Germany,GRAND CORPORATION,2017/12,340
+prod3,Germany,OMEGA LIMITED,2015/01,318
+prod3,Germany,OMEGA LIMITED,2015/02,362
+prod3,Germany,OMEGA LIMITED,2015/03,348
+prod3,Germany,OMEGA LIMITED,2015/04,363
+prod3,Germany,OMEGA LIMITED,2015/05,435
+prod3,Germany,OMEGA LIMITED,2015/06,491
+prod3,Germany,OMEGA LIMITED,2015/07,505
+prod3,Germany,OMEGA LIMITED,2015/08,404
+prod3,Germany,OMEGA LIMITED,2015/09,359
+prod3,Germany,OMEGA LIMITED,2015/10,310
+prod3,Germany,OMEGA LIMITED,2015/11,337
+prod3,Germany,OMEGA LIMITED,2015/12,360
+prod3,Germany,OMEGA LIMITED,2016/01,342
+prod3,Germany,OMEGA LIMITED,2016/02,406
+prod3,Germany,OMEGA LIMITED,2016/03,396
+prod3,Germany,OMEGA LIMITED,2016/04,420
+prod3,Germany,OMEGA LIMITED,2016/05,472
+prod3,Germany,OMEGA LIMITED,2016/06,548
+prod3,Germany,OMEGA LIMITED,2016/07,559
+prod3,Germany,OMEGA LIMITED,2016/08,463
+prod3,Germany,OMEGA LIMITED,2016/09,407
+prod3,Germany,OMEGA LIMITED,2016/10,362
+prod3,Germany,OMEGA LIMITED,2016/11,405
+prod3,Germany,OMEGA LIMITED,2016/12,417
+prod3,Germany,OMEGA LIMITED,2017/01,391
+prod3,Germany,OMEGA LIMITED,2017/02,419
+prod3,Germany,OMEGA LIMITED,2017/03,461
+prod3,Germany,OMEGA LIMITED,2017/04,472
+prod3,Germany,OMEGA LIMITED,2017/05,535
+prod3,Germany,OMEGA LIMITED,2017/06,622
+prod3,Germany,OMEGA LIMITED,2017/07,606
+prod3,Germany,OMEGA LIMITED,2017/08,508
+prod3,Germany,OMEGA LIMITED,2017/09,461
+prod3,Germany,OMEGA LIMITED,2017/10,390
+prod3,Germany,OMEGA LIMITED,2017/11,432
+prod3,Germany,OMEGA LIMITED,2017/12,452
